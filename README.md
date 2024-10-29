@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Smit Patel
-- 👀 I’m interested in Nothing
-- 🌱 I’m currently learning AI And ML,DSA,Django
+- 🤝 Open to collaborating on interesting and impactful projects.
+- 🚀 Experienced in building scalable and efficient web applications using Django, Node.js, and PHP.
+- ✍️ Sharing knowledge through blog posts and open-source contributions.
+- 🌱 Continuously learning and exploring new technologies, especially in web development and machine learning.
 
 
 <!---
