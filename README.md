@@ -3,6 +3,7 @@
 - 🚀 Experienced in building scalable and efficient web applications using Django, Node.js, and PHP.
 - ✍️ Sharing knowledge through blog posts and open-source contributions.
 - 🌱 Continuously learning and exploring new technologies, especially in web development and machine learning.
+- 🔍 Focused on solving complex problems with clean, efficient code.
 
 
 <!---
